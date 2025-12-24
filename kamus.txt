@@ -1,0 +1,14 @@
+1=saya
+12=kamu
+123=dia
+2=pergi
+23=makan
+3=ke
+34=dari
+4=sekolah
+45=rumah
+5=pada
+56=dengan
+6=hari
+67=ini
+7=.
